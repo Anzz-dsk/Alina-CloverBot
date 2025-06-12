@@ -1,4 +1,4 @@
-# 🌟 𝐀𝐙𝐔𝐑𝐀 𝐔𝐋𝐓𝐑𝐀🌟  
+# 🍂 𝘼 𝙇 𝙄 𝙉 𝘼 - 𝘾 𝙇 𝙊 𝙑 𝙀 𝙍 🍁  
 🔥 **El bot definitivo para grupos de WhatsApp con sistema RPG, administración avanzada y más.**  
 
 ≪━─━─━─━─◈─━─━─━─━≫  
@@ -6,15 +6,14 @@
 ≪━─━─━─━─◈─━─━─━─━≫  
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/6984cf1b.jpeg" alt="Azura Ultra & Cortana Bot" width="500"/>
+  <img src="https://qu.ax/UjYSA.jpg" alt="𝘼𝙡𝙞𝙣𝙖 𝘾𝙡𝙤𝙫𝙚𝙧 𝘽𝙤𝙩" width="500"/>
 </p>
 
 ≪━─━─━─━─◈─━─━─━─━≫  
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
 ≪━─━─━─━─◈─━─━─━─━≫  
 
-## 🚀 **¿Qué es Azura Ultra?**  
-**Azura Ultra** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
+**Alina Clover** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
 
 Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas**, inteligencia integrada y mucho más.  
 
@@ -60,24 +59,9 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 
 ⊱⋅ ──────────── ⋅⊰  
 
-## 👑 **Creador y colaboradores**  
-
-💻 **𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥:**  
-- 👑 **Russell XZ** (Creador de Azura Ultra)  
-
-🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
-- 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
-- 🔹 [Eliasar54](https://github.com/Eliasar54)  
-
-📢 ¡Gracias por apoyar el desarrollo de este poderoso bot!  
-
-⊱⋅ ──────────── ⋅⊰  
-
-## 🎯 **¿Quieres contribuir o dar soporte?**  
-- Abre un Issue en GitHub  
-- Contáctanos por Sky Ultra Plus Hosting  
-
-🚀 **¡Únete al futuro con Azura Ultra & Cortana y haz épico tu grupo de WhatsApp!**  
+## 🍁 **𝘾𝙧𝙚𝙖𝙙𝙤𝙧**  
+ 
+- 🍂 **𝘼𝙣𝙯𝙯 彡 𝘿𝙨𝙠** 
 
 ≪━─━─━─━─◈─━─━─━─━≫  
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
@@ -94,7 +78,7 @@ pkg update && pkg upgrade -y && pkg install nodejs git -y
 
 ## 2️⃣ Clona el repositorio desde GitHub
 ```bash
-git clone https://github.com/russellxz/AZURA-ULTRA-2.0-BOT.git
+git clone https://github.com/Anzz-dsk/Alina-CloverBot.git
 ```
 
 ## 3️⃣ Entra al directorio del bot
