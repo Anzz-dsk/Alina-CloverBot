@@ -3923,10 +3923,7 @@ case 'menuowner': {
 ➠ ${global.prefix}prender
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
-
-      𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼 𝗽𝗼𝗿: ʳᵘˢˢᵉˡˡ ˣᶻ  
-
-         𝙖𝙯𝙪𝙧𝙖 𝙪𝙡𝙩𝙧𝙖`;
+`;
 
     const videoResponse = await axios.get(
       "https://qu.ax/yjxSv.jpg",
