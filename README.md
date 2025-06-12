@@ -83,7 +83,7 @@ git clone https://github.com/Anzz-dsk/Alina-CloverBot.git
 
 ## 3️⃣ Entra al directorio del bot
 ```bash
-cd AZURA-ULTRA-2.0-BOT
+cd Alina-CloverBot
 ```
 
 ## 4️⃣ Instala módulos necesarios
